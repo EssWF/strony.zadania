@@ -1,0 +1,23 @@
+body{
+  background-color: #C3C0C0;
+  font-family: Arial;
+}
+header{
+  background-color: #D0CFD4;
+}
+h1#header{
+  color: #7B6BB2;
+}
+p#header{
+  font-style: italic;
+  color: #3930B3;
+}
+.p1{
+  line-height: 25px;
+}
+div#p2{
+  font-style: italic;
+}
+footer{
+  background-color: #BC91D5;
+}
